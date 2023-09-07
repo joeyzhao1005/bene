@@ -4,7 +4,7 @@
 ## Google Play
   已上架 [查看](https://play.google.com/store/apps/details?id=com.zhao.withu)
 
-## 三星Samsung
+## Samsung Seller Portal 三星
   国内上架需要统一社会信用代码，海外上架中
 
 ## Amazon
