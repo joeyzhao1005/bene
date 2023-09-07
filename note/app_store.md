@@ -5,7 +5,7 @@
   已上架 [查看](https://play.google.com/store/apps/details?id=com.zhao.withu)
 
 ## Samsung Seller Portal 三星
-  国内上架需要统一社会信用代码，海外上架中
+  国内无法上架（需要统一社会信用代码），海外上架中
 
 ## Amazon Appstore
   上架中
@@ -14,7 +14,7 @@
   上架中
   
 ## ApkPure
-  已认领，同步Google Play [查看](https://apkpure.com/bene/com.zhao.withu)
+  已认领，其同步Google Play更新 [查看](https://apkpure.com/bene/com.zhao.withu)
 
 ## 华为 AppGallery
   上架中
@@ -51,7 +51,7 @@
   需要ICP备案，不接收个人开发者APP
 
 ## 阿里PP
-  需要电子版权认证，我已经取得了软著电子证书依然不行，去易版权核发填报，让提交的事纸质证书，所以卡在这里了
+  需要电子版权认证，我已经取得了软著电子证书，但是阿里不认，去易版权核发填报，让提交的是纸质证书，所以卡在这里了
   
 ## 其他
   其他等抽空有选择的上，个人开发者维护不了太多市场
