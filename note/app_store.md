@@ -17,7 +17,7 @@
   已认领，其同步Google Play更新 [查看](https://apkpure.com/bene/com.zhao.withu)
 
 ## 华为 AppGallery
-  上架中
+  华为审核很严格，需要ICP备案，暂时不考虑上架国内，先提交海外看会不会宽松一些
 
 ## 小米
   不接收个人开发者APP
