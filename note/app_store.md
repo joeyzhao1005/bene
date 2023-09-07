@@ -7,7 +7,7 @@
 ## Samsung Seller Portal 三星
   国内上架需要统一社会信用代码，海外上架中
 
-## Amazon
+## Amazon Appstore
   上架中
 
 ## GetApps 小米海外
