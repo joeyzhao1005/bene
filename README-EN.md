@@ -1,6 +1,6 @@
 # Bene
 
-[简体中文](https://github.com/joeyzhao1005/bene/edit/main/README.md)
+[简体中文](https://github.com/joeyzhao1005/bene#readme)
 
 ## Application Introduction
 Do you ever feel like the number of apps on your devices (phones, tablets) keeps increasing, but you use them less and less frequently?  
