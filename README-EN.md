@@ -19,7 +19,7 @@ Am I really the master of my device?
 With this vision, I strive to develop "Bene" as an application that liberates you from a multitude of apps and truly empowers you to take control of your device.  
 
 ## Software Download
-For the availability of "Bene" on various app stores, please refer to this link. [link](https://github.com/joeyzhao1005/bene/blob/main/note/app_store.md)  
+For the availability of "Bene" on various app stores, please refer to this link. [Link](https://github.com/joeyzhao1005/bene/blob/main/note/app_store.md)  
 If possible, it is recommended to download and update the app through the app store.
 
 If you are unable to download updates through the app store in your region, you can use GitHub for downloading:
