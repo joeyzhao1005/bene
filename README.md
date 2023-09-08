@@ -18,6 +18,18 @@
 我以此为愿景，努力打造《陪你》为一款将你从海量应用解脱出来并真正掌控你的设备的应用。  
 
 
+## 软件下载
+各应用市场上架情况 [参见](https://github.com/joeyzhao1005/bene/blob/main/note/app_store.md)  
+如果可以，建议通过应用市场下载更新。  
+
+如果你所在的地区无法通过应用市场下载更新，可使用github下载：
+[下载](https://github.com/joeyzhao1005/bene/releases)  
+**特别说明**：32位apk安装包除Google Play,华为AppGallery外，仅github提供下载。  
+
+
+
+## Bug反馈和需求建议
+
 
 [提交Bug](https://github.com/joeyzhao1005/bene/issues/new?assignees=&labels=&projects=&template=bug-report-%E6%8F%90%E4%BA%A4bug.md&title=)
 
