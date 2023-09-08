@@ -16,3 +16,9 @@
 
 **“打破应用藩篱，我是设备主人！”**。  
 我以此为愿景，努力打造《陪你》为一款将你从海量应用解脱出来并真正掌控你的设备的应用。  
+
+
+
+[提交Bug](https://github.com/joeyzhao1005/bene/issues/new?assignees=&labels=&projects=&template=bug-report-%E6%8F%90%E4%BA%A4bug.md&title=)
+
+[功能需求](https://github.com/joeyzhao1005/bene/issues/new?assignees=&labels=&projects=&template=feature-request-%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82.md&title=)
