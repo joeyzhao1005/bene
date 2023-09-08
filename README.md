@@ -1,6 +1,6 @@
 # 陪你
 
-[English Version](https://github.com/joeyzhao1005/bene/blob/main/README-EN.md)
+[English Readme](https://github.com/joeyzhao1005/bene/blob/main/README-EN.md)
 
 ## 应用介绍
 有没有感觉你设备（手机、平板电脑）中的应用越装越多，但打开的频次缺越来越少；  
