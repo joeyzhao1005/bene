@@ -24,7 +24,7 @@
 
 如果你所在的地区无法通过应用市场下载更新，可使用github下载：
 [下载](https://github.com/joeyzhao1005/bene/releases)  
-**特别说明**：32位apk安装包除Google Play,华为AppGallery外，仅github提供下载。  
+**特别说明**：32位apk安装包除Google Play、华为AppGallery外，仅github提供下载。  
 
 
 
