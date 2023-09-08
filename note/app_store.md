@@ -7,11 +7,11 @@
 ## ApkPure
   已认领，其同步Google Play更新 [查看](https://apkpure.com/bene/com.zhao.withu)
 
-## 华为 AppGallery
-  华为审核很严格，需要ICP备案，暂时不考虑上架国内，先提交海外看会不会宽松一些
-
 ## Samsung Seller Portal 三星应用市场
-  国内无法上架（需要统一社会信用代码），海外上架中
+  国内无法上架（需要统一社会信用代码），海外已上架 [查看](https://galaxystore.samsung.com/detail/com.zhao.withu)
+
+## 华为 AppGallery
+  华为国内审核很严格，需要ICP备案，海外市场已上架
 
 ## Amazon Appstore
   上架中
