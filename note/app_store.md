@@ -11,7 +11,7 @@
   国内无法上架（需要统一社会信用代码），海外已上架 [查看](https://galaxystore.samsung.com/detail/com.zhao.withu)
 
 ## 华为 AppGallery
-  华为国内审核很严格，需要ICP备案，海外市场已上架
+  华为国内审核很严格，需要ICP备案，海外市场已上架 [查看](https://appgallery.huawei.com/app/C100059091)
 
 ## Amazon Appstore
   上架中
