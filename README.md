@@ -1,5 +1,7 @@
 # 陪你
 
+[English Version](https://github.com/joeyzhao1005/bene/blob/main/README-EN.md)
+
 ## 应用介绍
 有没有感觉你设备（手机、平板电脑）中的应用越装越多，但打开的频次缺越来越少；  
 有没有感觉你设备中的应用广筑高墙、互为藩篱、各自为战，它们之间并不协同；  
