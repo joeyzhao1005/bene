@@ -10,7 +10,7 @@
 ## 华为 AppGallery
   华为审核很严格，需要ICP备案，暂时不考虑上架国内，先提交海外看会不会宽松一些
 
-## Samsung Seller Portal 三星
+## Samsung Seller Portal 三星应用市场
   国内无法上架（需要统一社会信用代码），海外上架中
 
 ## Amazon Appstore
