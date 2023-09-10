@@ -13,12 +13,13 @@
 ## 华为 AppGallery
   华为国内审核很严格，需要ICP备案，海外市场已上架 [查看](https://appgallery.huawei.com/app/C100059091)
 
+
+## GetApps 小米海外
+  已上架 [查看](http://app.xiaomi.com/detail/3118384)
+
 ## Amazon Appstore
   上架中
-  
-## GetApps 小米海外
-  上架中
-  
+
 ## OPPO 海外
   海外注册账号审核中
 
@@ -27,7 +28,7 @@
   看酷安对ICP备案是不是强要求，如果是，那么也无法上架酷安。
   
 ## 奇妙应用
-  已提审
+  已上架
 
 ## ~~AppShare~~
   无上传权限，需要连续签到15天且下载250个应用才能申请上传权限
