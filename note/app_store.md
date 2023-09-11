@@ -15,7 +15,7 @@
 
 
 ## GetApps 小米海外
-  已上架 [查看](http://app.xiaomi.com/detail/3118384)
+  已上架 [查看](https://global.app.mi.com/details?lo=AF&la=en_US&id=com.zhao.withu)
 
 ## Amazon Appstore
   上架中
