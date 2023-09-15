@@ -13,21 +13,19 @@
 ## 华为 AppGallery
   华为国内审核很严格，需要ICP备案，海外市场已上架 [查看](https://appgallery.huawei.com/app/C100059091)
 
-
 ## GetApps 小米海外
   已上架 [查看](https://global.app.mi.com/details?lo=AF&la=en_US&id=com.zhao.withu)
 
-## Amazon Appstore
-  上架中
-
-
+## 奇妙应用
+  已上架
+  
 ## 酷安
   重新提交审核中，陪你是重新做的APP，但不是新APP，以前是纯Android，现在是flutter重写的，而且陪你没有自己的服务器，所以没有域名能进行icp备案。  
   看酷安对ICP备案是不是强要求，如果是，那么也无法上架酷安。
-  
-## 奇妙应用
-  已上架
 
+## ~~Amazon Appstore~~
+  不让上架改变用户界面的APP。
+  
 ## ~~AppShare~~
   无上传权限，需要连续签到15天且下载250个应用才能申请上传权限
   
