@@ -16,12 +16,14 @@
 ## GetApps 小米海外
   已上架 [查看](https://global.app.mi.com/details?lo=AF&la=en_US&id=com.zhao.withu)
 
+## 阿里（PP助手）
+  已上架 [查看](https://m.pp.cn/detail.html?ch_src=pp&appid=7135553)
+
+## 酷安
+  已上架 [查看](https://www.coolapk.com/apk/138764)
+
 ## 奇妙应用
   已上架
-  
-## 酷安
-  重新提交审核中，陪你是重新做的APP，但不是新APP，以前是纯Android，现在是flutter重写的，而且陪你没有自己的服务器，所以没有域名能进行icp备案。  
-  看酷安对ICP备案是不是强要求，如果是，那么也无法上架酷安。
 
 ## ~~Amazon Appstore~~
   不让上架改变用户界面的APP。
@@ -63,8 +65,5 @@
 ## ~~360~~
   需要ICP备案，不接收个人开发者APP
 
-## ~~阿里PP~~
-  需要电子版权认证，我已经取得了软著电子证书，但是阿里不认，去易版权核发填报，让提交的是纸质证书，所以卡在这里了
-  
 ## 其他
   其他等抽空有选择的上，个人开发者维护不了太多市场
