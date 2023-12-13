@@ -1,28 +1,28 @@
 # 各应用市场上架情况
 
 
-## Google Play
+## **Google Play**
   已上架 [查看](https://play.google.com/store/apps/details?id=com.zhao.withu)
 
-## ApkPure
-  已认领，其同步Google Play更新 [查看](https://apkpure.com/bene/com.zhao.withu)
-
-## Samsung Seller Portal 三星应用市场
+## **Samsung Seller Portal 三星应用市场**
   国内无法上架（需要统一社会信用代码），海外已上架 [查看](https://galaxystore.samsung.com/detail/com.zhao.withu)
 
-## 华为 AppGallery
+## **华为 AppGallery**
   华为国内审核很严格，需要ICP备案，海外市场已上架 [查看](https://appgallery.huawei.com/app/C100059091)
 
 ## GetApps 小米海外
   已上架 [查看](https://global.app.mi.com/details?lo=AF&la=en_US&id=com.zhao.withu)
 
-## 阿里（PP助手）
+## ApkPure
+  已认领 [查看](https://apkpure.com/bene/com.zhao.withu)
+
+## **阿里（PP助手）**
   已上架 [查看](https://m.pp.cn/detail.html?ch_src=pp&appid=7135553)
 
-## 酷安
+## **酷安**
   已上架 [查看](https://www.coolapk.com/apk/138764)
 
-## 奇妙应用
+## **奇妙应用**
   已上架
 
 ## ~~Amazon Appstore~~
