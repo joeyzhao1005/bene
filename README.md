@@ -1,5 +1,7 @@
 # 陪你
 
+超越桌面定义的启动器
+
 [English Readme](https://github.com/joeyzhao1005/bene/blob/main/README-EN.md)
 
 ## 应用介绍
