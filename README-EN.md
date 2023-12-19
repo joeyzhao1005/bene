@@ -34,6 +34,18 @@ With this vision, I strive to develop "Bene" as an application that liberates yo
 For the availability of "Bene" on various app stores, please refer to this link. [Link](https://github.com/joeyzhao1005/bene/blob/main/note/app_store.md)  
 If possible, it is recommended to download and update the app through the app store.
 
+
+Download from  [Play Store](https://play.google.com/store/apps/details?id=com.zhao.withu) or [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.zhao.withu) or download the APK from the [latest release](https://github.com/joeyzhao1005/bene/releases).
+
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+alt="Get it on Play Store"
+height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)
+[<img src="https://images.samsung.com/is/content/samsung/assets/cn/apps/galaxy-store/20231008/00_galaxy_store_logo.svg?$n_56_IMG$"
+alt="Get it on Samsung Galaxy Store"
+height="80">](https://galaxystore.samsung.com/detail/com.zhao.withu)
+
+
 If you are unable to download updates through the app store in your region, you can use GitHub for downloading:
 [Download](https://github.com/joeyzhao1005/bene/releases)
 **Special Note**: The 32-bit APK installation package can be downloaded from Google Play, Samsung App Store, and Huawei AppGallery.

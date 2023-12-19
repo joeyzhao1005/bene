@@ -36,6 +36,15 @@
 各应用市场上架情况 [参见](https://github.com/joeyzhao1005/bene/blob/main/note/app_store.md)  
 如果可以，建议通过应用市场下载更新。  
 
+通过 [Play Store](https://play.google.com/store/apps/details?id=com.zhao.withu) 或 [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.zhao.withu) 下载，或者通过github [latest release](https://github.com/joeyzhao1005/bene/releases).
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+alt="Get it on Play Store"
+height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)
+[<img src="https://images.samsung.com/is/content/samsung/assets/cn/apps/galaxy-store/20231008/00_galaxy_store_logo.svg?$n_56_IMG$"
+alt="Get it on Samsung Galaxy Store"
+height="80">](https://galaxystore.samsung.com/detail/com.zhao.withu)
+
 如果你所在的地区无法通过应用市场下载更新，可使用github下载：
 [下载](https://github.com/joeyzhao1005/bene/releases)  
 **特别说明**：32位apk安装包可在Google Play、三星应用市场、华为AppGallery下载。  
