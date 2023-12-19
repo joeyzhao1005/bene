@@ -3,10 +3,10 @@
 Not just a launcher.
 
 
-"Bene" is typically known as "Bene Desktop" or "Bene Launcher". 
-However, "Bene" is more than just a launcher. 
-We strive to be your everyday smart assistant for using your mobile devices, such as smartphones and tablets, efficiently. 
-When you regularly use different devices, we hope that "Bene" can eradicate the sense of fragmentation from switching between devices and unify your user experience.
+"Bene" is typically known as "Bene Desktop" or "Bene Launcher".   
+However, "Bene" is more than just a launcher.   
+We strive to be your everyday smart assistant for using your mobile devices, such as smartphones and tablets, efficiently.   
+When you regularly use different devices, we hope that "Bene" can eradicate the sense of fragmentation from switching between devices and unify your user experience.  
 
 
 
