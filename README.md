@@ -43,7 +43,7 @@ alt="Get it on Play Store"
 height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)
 [<img src="https://images.samsung.com/is/content/samsung/assets/cn/apps/galaxy-store/20231008/00_galaxy_store_logo.svg?$n_56_IMG$"
 alt="Get it on Samsung Galaxy Store"
-height="40">](https://galaxystore.samsung.com/detail/com.zhao.withu)
+height="60">](https://galaxystore.samsung.com/detail/com.zhao.withu)
 
 如果你所在的地区无法通过应用市场下载更新，可使用github下载：
 [下载](https://github.com/joeyzhao1005/bene/releases)  
