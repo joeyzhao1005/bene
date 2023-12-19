@@ -1,6 +1,6 @@
 # Bene
 
-Not just a launcher。
+Not just a launcher.
 
 [简体中文](https://github.com/joeyzhao1005/bene#readme)
 
