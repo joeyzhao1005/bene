@@ -40,7 +40,8 @@
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
 alt="Get it on Play Store"
-height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)
+height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)  
+
 [<img src="https://images.samsung.com/is/content/samsung/assets/cn/apps/galaxy-store/20231008/00_galaxy_store_logo.svg?$n_56_IMG$"
 alt="Get it on Samsung Galaxy Store"
 height="50">](https://galaxystore.samsung.com/detail/com.zhao.withu)
