@@ -19,6 +19,9 @@
 ## **阿里（PP助手）**
   已上架 [查看](https://m.pp.cn/detail.html?ch_src=pp&appid=7135553)
 
+## **阿里（豌豆荚）
+  已上架 [查看](https://www.wandoujia.com/apps/7135553)
+
 ## **奇妙应用**
   已上架，在奇妙应用更新alpha版本。
 
