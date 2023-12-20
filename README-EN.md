@@ -44,7 +44,7 @@ height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)
 
 [<img src="https://joeyzhao1005.github.io/bene/images/samsung_download.png"
 alt="Get it on Samsung Galaxy Store"
-height="50">](https://galaxystore.samsung.com/detail/com.zhao.withu)
+height="80">](https://galaxystore.samsung.com/detail/com.zhao.withu)
 
 
 If you are unable to download updates through the app store in your region, you can use GitHub for downloading:
