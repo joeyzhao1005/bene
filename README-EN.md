@@ -1,13 +1,10 @@
 ![Bene-Not just a launcher](https://joeyzhao1005.github.io/bene/images//banner.png "Bene-Not just a launcher")
 
 # Bene, Not just a launcher.
-
-
 "Bene" is typically known as "Bene Desktop" or "Bene Launcher".   
 However, "Bene" is more than just a launcher.   
 We strive to be your everyday smart assistant for using your mobile devices, such as smartphones and tablets, efficiently.   
 When you regularly use different devices, we hope that "Bene" can eradicate the sense of fragmentation from switching between devices and unify your user experience.  
-
 
 
 [简体中文](https://github.com/joeyzhao1005/bene#readme)
@@ -52,8 +49,6 @@ If you are unable to download updates through the app store in your region, you 
 
 
 ## Bug Report and Feature Request
-
-
 [Bug Report](https://github.com/joeyzhao1005/bene/issues/new?assignees=&labels=&projects=&template=bug-report-%E6%8F%90%E4%BA%A4bug.md&title=)
 
 [Feature Request](https://github.com/joeyzhao1005/bene/issues/new?assignees=&labels=&projects=&template=feature-request-%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82.md&title=)
