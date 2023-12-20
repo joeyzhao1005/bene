@@ -38,11 +38,11 @@
 
 通过 [Play Store](https://play.google.com/store/apps/details?id=com.zhao.withu) 或 [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.zhao.withu) 下载，或者通过github [latest release](https://github.com/joeyzhao1005/bene/releases).
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+[<img src="https://joeyzhao1005.github.io/bene/images/google_play_download.png"
 alt="Get it on Play Store"
 height="80">](https://play.google.com/store/apps/details?id=com.zhao.withu)  
 
-[<img src="https://images.samsung.com/is/content/samsung/assets/cn/apps/galaxy-store/20231008/00_galaxy_store_logo.svg?$n_56_IMG$"
+[<img src="https://joeyzhao1005.github.io/bene/images/samsung_download.png"
 alt="Get it on Samsung Galaxy Store"
 height="50">](https://galaxystore.samsung.com/detail/com.zhao.withu)
 
