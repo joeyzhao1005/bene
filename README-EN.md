@@ -1,8 +1,6 @@
-# Bene
-
 ![Bene-Not just a launcher](https://joeyzhao1005.github.io/bene/images//banner.png "Bene-Not just a launcher")
 
-Not just a launcher.
+# Bene, Not just a launcher.
 
 
 "Bene" is typically known as "Bene Desktop" or "Bene Launcher".   
