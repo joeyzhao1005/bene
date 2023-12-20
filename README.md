@@ -1,5 +1,3 @@
-
-
 ![陪你-超越桌面定义的启动器 Bene Launcher](https://joeyzhao1005.github.io/bene/images/banner.png "陪你-超越桌面定义的启动器 Bene Launcher")
 
 # 陪你-超越桌面定义的启动器。
