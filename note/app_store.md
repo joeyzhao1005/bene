@@ -19,11 +19,11 @@
 ## **阿里（PP助手）**
   已上架 [查看](https://m.pp.cn/detail.html?ch_src=pp&appid=7135553)
 
-## **酷安**
-  已上架 [查看](https://www.coolapk.com/apk/138764)
-
 ## **奇妙应用**
-  已上架
+  已上架，在奇妙应用更新alpha版本。
+
+## **酷安**
+  因备案问题已被下架。
 
 ## ~~Amazon Appstore~~
   不让上架改变用户界面的APP。
