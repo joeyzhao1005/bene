@@ -10,6 +10,9 @@
 ## **华为 AppGallery**
   华为国内审核很严格，需要ICP备案，海外市场已上架 [查看](https://appgallery.huawei.com/app/C100059091)
 
+## **传音 Palm Store**
+  已上架
+
 ## GetApps 小米海外
   已上架 [查看](https://global.app.mi.com/details?lo=AF&la=en_US&id=com.zhao.withu)
 
