@@ -23,7 +23,7 @@
   已认领 [查看](https://apkpure.com/bene/com.zhao.withu)
 
 ## **奇妙应用**
-  已上架，alpha版本在奇妙应用更新，中国大陆仅可在这里下载新版本 [查看](https://www.magicalapk.com/appview?id=1705215388480)
+  已上架，**alpha版本**在此更新，**中国大陆**仅可在这里下载新版本 [查看](https://www.magicalapk.com/appview?id=1705215388480)
 
 ## 阿里（PP助手）
   已上架，但因为需要备案，不再继续更新 [查看](https://m.pp.cn/detail.html?ch_src=pp&appid=7135553)
